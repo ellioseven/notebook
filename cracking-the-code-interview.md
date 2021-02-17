@@ -1,9 +1,5 @@
 # Cracking the Code Interview
 
-
-
-## Cracking the Code Interview
-
 ### Big O
 
 * A way to determine efficiency of an algorithm, describes the rate of increase
@@ -18,8 +14,11 @@
   * O\(2^n\)
 * Drop constants, as time may different on the size of the inputs
 * Drop non dominant terms, eg: N^2 + N becomes N&2
-* See fig-2.png for example of adding vs multiplying runtimes
 * Recursive runtime: @todo
+
+![Common runtimes](.gitbook/assets/fig-1.png)
+
+![Adding/multiplying runtimes](.gitbook/assets/fig-2.png)
 
 #### Examples
 
@@ -28,11 +27,13 @@
 ### Technical Questions
 
 * Practice solving coding problems on paper
-* See \(fig-3.png\) for a table of must have data structure and algorithm knowledge
 
-#### Problem Solving Approach
+![Required knowledge](.gitbook/assets/fig-3.png)
 
-* See fig-4.png for a problm solving flow chart
+**Problem Solving Approach**
+
+![Problem solving flow chart](.gitbook/assets/fig-4.png)
+
 * Listen carefully
   * Most of the time information is there for a reason
   * Consider rewriting important information
