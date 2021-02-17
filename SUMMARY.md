@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Notebook](README.md)
+* [Cracking the Code Interview](cracking-the-code-interview.md)
 
