@@ -162,25 +162,22 @@ description: Notes on career path
 
 #### Qualities:
 
-* Proactive and self motivated
-* Focus on growth and continuous improvement
+* Proactive and self motivated, initiative
 * Technical communication skills
 * Problem solving skills
 * Translate requirements into deliverable software
-* Explore collaborative environments with team members \(mentoring, feedback, design analysis, code reviews, etc.\)
+* Work well in collaborative environments with team members \(problem solving, mentoring, code reviews, etc.\)
 * Can approach challenges from multiple perspectives
-* Initiative through projects you've started \(start-ups\)
-* Friendly, easing going \(start-ups\)
 
 #### Technical Qualities:
 
 * Agile thinking and methods: XP, Scrum, Kanban
 * Automated testing and TDD
-* CI/CD
 * Create large-scale distributed systems with API's and microservices
 * Being able to explore and analyse technology to solve client problems
-* DevOps tools and practices to build and deploy software
-* Experience in TypeScript, JavaScript, React, Node.js, GraphQL, MongoDB, Postgres, Kubernetes, Docker
+* CI/CD to continuously deploy and verify software
+* DevOps tools and practices to improve development operations
+* Experience in TypeScript, JavaScript, React, Node.js, SQL, NoSQL, Docker
 * Cloud technology such as AWS, Kubernetes and Docker
 * Ability to write high quality, well tested code
 * Ability to maintain, improve and develop existing software and processes
