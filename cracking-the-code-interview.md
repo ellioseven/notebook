@@ -34,19 +34,35 @@
 
 ![Problem solving flow chart](.gitbook/assets/fig-4.png)
 
-* Listen carefully
+* 1.Listen carefully
   * Most of the time information is there for a reason
   * Consider rewriting important information
   * Make sure you record any unique information
     * "Given two arrays that are sorted...": Why are they sorted?
     * "Design an algorithm to be run repeatly on a server...": What would they be looking for? Caching?
   * If you're stuck, asking yourself if you've used all the information
-* Draw an example
+* 2. Draw an example
   * Always draw an example, it will give you more insight than working it out inside your head
   * Example should be:
     * Specific: Use real values
     * Sufficiently large: Use a large amount of values
     * Not a special case
-* State a brute force
-  * 
+* 3. State a brute force
+  * @todo
+* 4. Optimise
+  * Look for unused information, can you leverage it?
+  * Solve it incorrectly and work from there
+  * Make space/time runtime trade off, eg: storing extra program state
+  * Can you pre-compute the values?
+  * Can you use a hash table? These are used frequently
+* 5. Walk Through
+  * It will be easier to make sure your solution is "correct" before you start coding
+  * Will help you get a feel for the structure of the code
+* 6. Implement
+* 7. Test
+
+#### Optimise & Solve Techniques
+
+* BUD: Continuously find and remove bottlenecks, useless work, duplicate work
+  * Bottlenecks:
 
