@@ -178,7 +178,7 @@ description: Notes on career path
 * CI/CD to continuously deploy and verify software
 * DevOps tools and practices to improve development operations
 * Experience in TypeScript, JavaScript, React, Node.js, SQL, NoSQL, Docker
-* Cloud technology such as AWS, Kubernetes and Docker
+* Building on cloud technology technology such as Serverless, Kubernetes and Docker
 * Ability to write high quality, well tested code
 * Ability to maintain, improve and develop existing software and processes
 
