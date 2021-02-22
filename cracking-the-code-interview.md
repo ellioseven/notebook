@@ -64,5 +64,6 @@
 #### Optimise & Solve Techniques
 
 * BUD: Continuously find and remove bottlenecks, useless work, duplicate work
-  * Bottlenecks:
+  * Bottlenecks: Can you optimise the greater time complexity in a multi part algorithm? Can you reduce the time complexity on "hot" parts?
+  * [https://gist.github.com/ellioseven/f5eb2e859145a4977a8afef1a4ce436c](https://gist.github.com/ellioseven/f5eb2e859145a4977a8afef1a4ce436c)
 
