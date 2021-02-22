@@ -162,9 +162,10 @@ description: Notes on career path
 
 #### Qualities:
 
+* Can quickly adapt to different environments and technologies
 * Proactive and self motivated, initiative
-* Technical communication skills
-* Problem solving skills
+* Technical communication
+* Strong problem solving
 * Translate requirements into deliverable software
 * Work well in collaborative environments with team members \(problem solving, mentoring, code reviews, etc.\)
 * Can approach challenges from multiple perspectives
@@ -186,7 +187,7 @@ description: Notes on career path
 
 #### Narrative
 
-Software guy, that has deep technical knowledge and a knack for exploring and solving problems.
+Software engineer with a wide technical knowledge, loves to learn has a knack for collaborative problem solving. Heavy focus on quality, maintainability and scalability.
 
 #### General
 
@@ -255,5 +256,6 @@ Software guy, that has deep technical knowledge and a knack for exploring and so
 ### Questions
 
 * What's your testing policy?
-* What's your process for managing technica
+* What's your process for managing technical debt
+* What does UX/UI/Development collaboration look like?
 
