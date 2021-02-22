@@ -197,6 +197,7 @@ Software engineer with a wide technical knowledge, loves to learn has a knack fo
 
 #### Resume
 
+* What value do you bring?
 * Develop a narrative that perfectly matches the role and the company
   * "The technology and psychology guy, who really knows marketing"
   * "The performance marketer who can drive 10,000 profitable leads a month"
