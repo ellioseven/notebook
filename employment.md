@@ -162,26 +162,24 @@ description: Notes on career path
 
 #### Qualities:
 
-* Can quickly adapt to different environments and technologies
-* Proactive and self motivated, initiative
-* Technical communication
-* Strong problem solving
-* Translate requirements into deliverable software
-* Work well in collaborative environments with team members \(problem solving, mentoring, code reviews, etc.\)
-* Can approach challenges from multiple perspectives
+* Breadth of technical knowledge that can be applied to deliver to right solution for the problem
+* Can be productive with new technology, can grasp complex systems, and adapt to new environments quickly
+* Being able to analyse problems and design, plan and build effective solutions quickly
+* Experience with Agile and fast paced environments
+* Strong collaborative problem solving skills
+* Strong technical communication across different levels
+* Take initiative to be able to fully manage software quality, producing maintainable and scalable solutions
+* Friendly, easy going personality, mesh well with teams
 
 #### Technical Qualities:
 
 * Agile thinking and methods: XP, Scrum, Kanban
 * Automated testing and TDD
 * Create large-scale distributed systems with API's and microservices
-* Being able to explore and analyse technology to solve client problems
 * CI/CD to continuously deploy and verify software
 * DevOps tools and practices to improve development operations
-* Experience in TypeScript, JavaScript, React, Node.js, SQL, NoSQL, Docker
+* Experience in TypeScript, JavaScript, React, Node.js, SQL, NoSQL
 * Building on cloud technology technology such as Serverless, Kubernetes and Docker
-* Ability to write high quality, well tested code
-* Ability to maintain, improve and develop existing software and processes
 
 ### Application
 
