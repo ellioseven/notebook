@@ -173,6 +173,7 @@ description: Notes on career path
 
 #### Technical Qualities:
 
+* Strong foundations in software patterns, principles and best practices
 * Agile thinking and methods: XP, Scrum, Kanban
 * Automated testing and TDD
 * Create large-scale distributed systems with API's and microservices
