@@ -166,8 +166,7 @@ description: Notes on career path
 * Can be productive with new technology, can grasp complex systems, and adapt to new environments quickly
 * Being able to analyse problems and design, plan and build effective solutions quickly
 * Experience with Agile and fast paced environments
-* Strong collaborative problem solving skills
-* Strong technical communication across different levels
+* Strong collaborative problem solving skills and communication across different levels
 * Take initiative to be able to fully manage software quality, producing maintainable and scalable solutions
 * Friendly, easy going personality, mesh well with teams
 
@@ -186,7 +185,7 @@ description: Notes on career path
 
 #### Narrative
 
-Software engineer with a wide technical knowledge, loves to learn has a knack for collaborative problem solving. Heavy focus on quality, maintainability and scalability.
+#### Fullstack software engineer with ten years of experience designing and delivering UIs, APIs and distributed systems for startups and agencies.
 
 #### General
 
