@@ -162,9 +162,10 @@ description: Notes on career path
 
 #### Qualities:
 
-* Breadth of technical knowledge and the ability to analyse new technology to deliver the right solution for the problem
-* Can be productive with new technology, can grasp complex systems, and adapt to new environments quickly
+* Breadth of technical knowledge and the ability to analyse and apply new technology
 * Being able to analyse problems and design, plan and build effective solutions quickly
+* Can grasp complex systems
+* Can adapt to new environments quickly
 * Experience with Agile and fast paced environments
 * Strong collaborative problem solving skills and communication across different levels
 * Take initiative to be able to fully manage software quality, producing maintainable and scalable solutions
