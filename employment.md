@@ -163,7 +163,7 @@ description: Notes on career path
 #### Qualities:
 
 * Breadth of technical knowledge and the ability to analyse and apply new technology
-* Being able to analyse problems and design, plan and build effective solutions quickly
+* Can analyse problems and design, plan and build effective solutions quickly
 * Can grasp complex systems
 * Can adapt to new environments quickly
 * Experience with Agile and fast paced environments
