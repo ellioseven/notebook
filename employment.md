@@ -260,5 +260,5 @@ description: Notes on career path
 * What kind of management opportunities are there?
 * What's your testing policy?
 * What's your process for managing technical debt?
-* What does UX/UI/Development collaboration look like?
+* What does team/collaboration look like?
 
