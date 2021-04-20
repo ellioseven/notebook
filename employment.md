@@ -23,9 +23,9 @@ description: Notes on career path
 
 ### Career Wants
 
-* Opportunity to grow management skills
+* Opportunity to work with new technologies such as Kubernetes
 * Opportunity to grow system design and architecture skills
-* Opportunity to explore and work with new technology
+* Opportunity to grow management skills
 
 ### Career
 
