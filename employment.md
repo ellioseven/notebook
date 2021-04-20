@@ -255,7 +255,10 @@ description: Notes on career path
 
 ### Questions
 
+* What kind or technology will I be working with? Kubernetes?
+* What kind of control do I have over architecture?
+* What kind of management opportunities are there?
 * What's your testing policy?
-* What's your process for managing technical debt
+* What's your process for managing technical debt?
 * What does UX/UI/Development collaboration look like?
 
