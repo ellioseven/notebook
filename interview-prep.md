@@ -32,7 +32,7 @@
     * Spend less time worrying about things and more time thinking about actions you can take to get closer to your goals, then actually take action
     * Reformed with team to build a pros/cons list and a feature table to attempt to provide a clear path, involving all team members
     * Settled with a vote
-    * Followed up individually after the meeting to apologise, empathise, let them know that their contribution is extremely valuable
+    * After the decision, followed up individually after the meeting to apologise, empathise, let them know that their contribution is extremely valuable
 * Why do you want to work here?
   * I love the product
   * Finance can be inaccessible for many people
