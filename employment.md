@@ -186,7 +186,7 @@ description: Notes on career path
 
 #### Narrative
 
-#### Fullstack software engineer with ten years of experience designing and delivering UIs, APIs and distributed systems for startups and agencies.
+#### Fullstack software engineer with ten years of experience designing and delivering UIs, APIs and distributed systems for startups and agencies. I turn problems into the right technical solutions.
 
 #### General
 
