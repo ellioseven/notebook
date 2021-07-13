@@ -15,10 +15,10 @@
     * Customers loved the insights and we decided to implement a couple more core feature insights
 * What was the hardest bug you've faced?
   * Regex Bottleneck
-    * Noticed we were getting large request times with New Relic
+    * Noticed we were getting large request times with New Relic monitoring
     * Checked the logs for any timeouts or errors in application logs
     * Could not replicate locally
-    * Try to bring the local environment closer to the production, used the production API endpoint, was able to replicate
+    * Try to bring the local environment closer to the production, used the production API endpoint for content, was able to replicate
     * By profiling with Clinic.js Flame, was able to find a hot function that was performing a huge amount of CPU cycles
     * Function was performing a large amount of regular expressions that was growing exponentially, trying to parse header menu links to match them with application routes
     * Implemented a solution where links we pre-computed and cached on the backend
