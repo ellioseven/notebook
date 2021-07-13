@@ -40,6 +40,7 @@
   * For every day people, to be able to have realistic options that bring you closer to your financial goals, such as owning a home is absolutely critical
   * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
   * I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
+  * The tech stack looks extremely exciting, AWS and GoLang!
 * Tell me about yourself
   * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
   * Diploma of Graphic Design & Website Development
