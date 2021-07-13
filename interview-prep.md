@@ -64,9 +64,11 @@
     * Developed user profile solution UI and API with Next.js and GraphQL, now handling data for thousands of users
   * TEX
     * Social networking platform connecting individuals and organisations to share skills and experience
-    * React, Express.js, Firebase \(NoSQL and serverless functions\) and Algolia \(search\)
+    * React, Express.js, Firebase \(NoSQL and serverless functions\), Algolia \(search\) on a GCP environment
     * Start up environment geared towards rapid prototyping
-    * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as session counts, used eventing to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub, discovered patterns such as profile to sessions ratios
+    * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as bookings and video sessions
+    * I used an event based architecture to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub
+    * I've also implemented solutions for social networking with GetStream.io, video sessions with Twilio Video and booking with Cronofy
 * Why are you leaving your current role
   * Growth!
   * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction for my career
