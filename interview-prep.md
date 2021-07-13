@@ -37,7 +37,7 @@
     * Settled with a vote
     * After the decision, followed up individually after the meeting to apologise, empathise, let them know that their contribution is extremely valuable
 * **Why do you want to work here?**
-  * I love the product
+  * I love the product idea and it looks like it was made by people who really care
   * Finance can be inaccessible for many people, particularly younger generations or people without large disposable income, close the financial gap!
   * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
   * I find the problem exciting, how can I generate passive income without a ton of risk? I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
