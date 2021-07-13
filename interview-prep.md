@@ -36,10 +36,9 @@
 * Why do you want to work here?
   * I love the product
   * Finance can be inaccessible for many people
-  * I love the idea of making finance available and accessible to everyone, particularly to younger generations or people without large disposable income, close the financial gap
-  * For every day people, to be able to have realistic options that bring you closer to your financial goals, such as owning a home is absolutely critical
+  * I love the idea of making finance available and accessible to everyone, particularly to younger generations or people without large disposable income, close the financial gapl
   * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
-  * I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
+  * I find the problem exciting, I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
 * Tell me about yourself
   * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
   * Diploma of Graphic Design & Website Development
