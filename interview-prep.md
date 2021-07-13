@@ -19,7 +19,7 @@
     * Noticed we were getting large request times with New Relic monitoring
     * Checked the logs for any timeouts or errors in application logs
     * Could not replicate locally
-    * At the time we were using Platform.sh, so we didn't have a network tracing tool like AWS X-Ray
+    * At the time we were using Platform.sh \(similar to Heroku\), so we didn't have a network tracing tool like AWS X-Ray
     * Try to bring the local environment closer to the production, used the production content API, was able to replicate
     * By profiling with Clinic.js Flame, was able to find a hot function that was performing a huge amount of CPU cycles
     * Function was performing a large amount of regular expressions that was growing exponentially, trying to parse header menu links to match them with application routes
