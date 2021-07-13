@@ -57,18 +57,18 @@
     * Worked with content team at APSC government agency to deliver a large-scale Drupal solution
     * Achieved WCAG AA accessibility rating
   * Prosple
-    * Provides tools such as job boards, virtual internships and student surveys to help students, teachers and employers make recruiting decisions
+    * Provides tools such as job boards, virtual internships and student reviews to help students, teachers and employers make recruiting decisions
     * Approached by former technical director of Digital Garden to refactor a monolithic multi-site Drupal solution to a microservice style architecture with MongoDB, Express.js, React and Node.js
     * Hadn't had the opportunity to work with React in production
-    * Within a month, I had implemented a production ready faceted search solution, which is still used today
-    * Developed user profile solution UI and API with Next.js and GraphQL, now handling data for thousands of users
+    * Within a month, I had implemented a production ready faceted search solution, which is still used today and handles thousands of daily searches for over 60 tenants
+    * Developed user profile solution UI and API with Next.js and GraphQL, collecting data such as education background, career objects, skills, now handling data for thousands of users
   * TEX
     * Social networking platform connecting individuals and organisations to share skills and experience
     * React, Express.js, Firebase \(NoSQL and serverless functions\), Algolia \(search\) on a GCP environment
     * Fast paced start up geared towards collaboration, rapid prototyping and experimentation
     * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as bookings and video sessions
     * I used an event based architecture to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub
-    * I've also implemented solutions for social networking with GetStream.io, video sessions with Twilio Video and booking with Cronofy
+    * I've also spent a lot of time analysing and integrating third party software, solutions for social networking with GetStream.io, video sessions with Twilio Video and booking management with Cronofy
 * Why are you leaving your current role
   * Growth!
   * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction for my career
