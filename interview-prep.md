@@ -43,13 +43,13 @@
 * Tell me about yourself
   * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
   * Diploma of Graphic Design & Website Development
-  * First job at Rotapix as a Wordpress Developer
+  * I started my career at Rotapix as a Wordpress Developer
     * SEO ageny
     * I collaborated with SEO analysts to optimise WordPress websites
     * I built an internal SEO first WordPress for new projects from lessons learned
   * Moved to Digital Garden as a Drupal Developer
     * Digital agency with a team of interface designers and developers
-    * Designed and built content management solutions in sectors such as Government and Non-Profits, including MSF and APRA
+    * Designed and built content management solutions in sectors such as Government and Non-Profits, for organisations such as MSF and APRA
     * Collaborated with design and development team to build a pattern library and a containerised development environment to provide developers with standardised tooling across agency projects
     * Great team, worked there for four years
   * Technocrat
