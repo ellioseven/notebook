@@ -14,7 +14,17 @@
     * GCP Pub/Sub and GCP Cloud Storage was used to allow staff to generate on-demand reports that cover metrics across all customers for certain core features
     * Customers loved the insights and we decided to implement a couple more core feature insights
 * What was the hardest bug you've faced?
+  * Regex Bottleneck
+    * Noticed we were getting large request times with New Relic
+    * Checked the logs for any timeouts or errors in application logs
+    * Could not replicate locally
+    * Try to bring the local environment closer to the production, used the production API endpoint, was able to replicate
+    * By profiling with Clinic.js Flame, was able to find a hot function that was performing a huge amount of CPU cycles
+    * Function was performing a large amount of regular expressions that was growing exponentially, trying to parse header menu links to match them with application routes
+    * Implemented a solution where links we pre-computed and cached on the backend
 * How did you resolve a conflict in your team?
+  * Ego Stabliser
+    * 
 * Why do you want to work here?
 * Tell me about yourself
   * Should conform to the narrative
@@ -25,5 +35,5 @@
 * Why are you leaving your current role
 * What is your greatest strength?
 * What is your greatest weakness? \(How do you overcome it?\)
-* Make the weakness your strength
+  * Make the weakness your strength
 
