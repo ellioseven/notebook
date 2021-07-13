@@ -2,7 +2,7 @@
 
 ### Backend
 
-* What is a problem that you faced and how did you solve it?
+* **What is a problem that you faced and how did you solve it?**
   * TEX Behaviour Analytics:
     * Staff needed to create analytics that could help them understand and share insights with customers as to how their users were engaging with features on the social platform
       * eg: How many sessions were people having?
@@ -10,20 +10,22 @@
     * The first part of the problem was to research and find what a valuable but minimal data set would look like and how we would deliver it
     * The second part of the problem was to realise what the constraints were, do we build with what we have or research new tools \(eg: Segment\)
     * Time and risk were big favors, I needed to build the feature as quickly with minimum risk in order to gauge the value to customers, while still being able to migrate the solution away to something more permanent
-    * I decided to use our existing database \(Firestore\) to build an aggregated data pattern, where metrics are tallied in real time in order to provide an API that can respond with customer insight data as quickly as possible
-    * GCP Pub/Sub and GCP Cloud Storage was used to allow staff to generate on-demand reports that cover metrics across all customers for certain core features
+    * I decided to use our existing database \(Firestore\) to build an aggregated data pattern, where metrics are tallied in real time with GCP Pub/Sub and serverless functions, I implemented an  API so that customers could fetch insight data about their team members as quickly as possible
+    * GCP Cloud Storage was used to allow staff to generate on-demand reports that cover metrics across all customers for certain core features
     * We managed to find interested patterns, such as complete profiles would lead to more sessions booked for that individual
-    * Customers loved the insights and we decided to implement a couple more core feature insights
-* What was the hardest bug you've faced?
+    * Customers loved the insights and we decided to implement a couple more core features to our data sets
+* **What was the hardest bug you've faced?**
   * Regex Bottleneck
     * Noticed we were getting large request times with New Relic monitoring
     * Checked the logs for any timeouts or errors in application logs
     * Could not replicate locally
-    * Try to bring the local environment closer to the production, used the production API endpoint for content, was able to replicate
+    * At the time we were using Platform.sh, so we didn't have a network tracing tool like AWS X-Ray
+    * Try to bring the local environment closer to the production, used the production content API, was able to replicate
     * By profiling with Clinic.js Flame, was able to find a hot function that was performing a huge amount of CPU cycles
     * Function was performing a large amount of regular expressions that was growing exponentially, trying to parse header menu links to match them with application routes
     * Implemented a solution where links we pre-computed and cached on the backend
-* How did you resolve a conflict in your team?
+    * Actually made request times a lot faster
+* **How did you resolve a conflict in your team?**
   * Ego
     * I had been working with our current stack for around a year and had become "attached" to one of our frameworks without realising
     * Time came for a new product, our team were deciding what the stack should look like
@@ -34,13 +36,13 @@
     * Reformed with team to build a pros/cons list and a feature table to attempt to provide a clear path, involving all team members
     * Settled with a vote
     * After the decision, followed up individually after the meeting to apologise, empathise, let them know that their contribution is extremely valuable
-* Why do you want to work here?
+* **Why do you want to work here?**
   * I love the product
   * Finance can be inaccessible for many people
   * I love the idea of making finance available and accessible to everyone, particularly to younger generations or people without large disposable income, close the financial gapl
   * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
   * I find the problem exciting, I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
-* Tell me about yourself
+* **Tell me about yourself**
   * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
   * Diploma of Graphic Design & Website Development
   * I started my career at Rotapix as a Wordpress Developer
@@ -69,13 +71,13 @@
     * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as bookings and video sessions
     * I used an event based architecture to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub
     * I've also spent a lot of time analysing and integrating third party software, solutions for social networking with GetStream.io, video sessions with Twilio Video and booking management with Cronofy
-* Why are you leaving your current role
+* **Why are you leaving your current role**
   * Growth!
   * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction for my career
   * An opportunity to work with Go would be a huge win
   * I'm really keen to work with AWS, I'm taking my AWS certified developer exam in a couple of months
-* What is your greatest strength?
+* **What is your greatest strength?**
   * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my tablet over a screen share and start forming ideas with my terrible illustrations
-* What is your greatest weakness? \(How do you overcome it?\)
+* **What is your greatest weakness? \(How do you overcome it?\)**
   * Technology is fast paced and always changing, I can get lost in the excitement of new technologies, ideas and patterns. Find yourself with a lot of enthusiasm to try new or different things that might not work. Sometimes you have to separate yourself from the solution and really look at the problem. Not always a bad thing, you can have lot's of different solutions for different problems.
 
