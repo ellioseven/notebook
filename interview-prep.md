@@ -23,15 +23,50 @@
     * Function was performing a large amount of regular expressions that was growing exponentially, trying to parse header menu links to match them with application routes
     * Implemented a solution where links we pre-computed and cached on the backend
 * How did you resolve a conflict in your team?
-  * Ego Stabliser
-    * 
+  * Ego
+    * I had been working with our current stack for around a year and had become "attached" to one of our frameworks without realising
+    * Time came for a new product, our team were deciding what the stack should look like
+    * Debates were getting heated, we couldn't decide, discussion was going nowhere, not constructive
+    * Decided the best thing to do would be to take a short break to reflect
+    * Realised that thought needs to be objective, remove any ego or attachment to tools or frameworks
+    * Spend less time worrying about things and more time thinking about actions you can take to get closer to your goals, then actually take action
+    * Reformed with team to build a pros/cons list and a feature table to attempt to provide a clear path, involving all team members
+    * Settled with a vote
+    * Followed up individually after the meeting to apologise, empathise, let them know that their contribution is extremely valuable
 * Why do you want to work here?
+  * I love the product
+  * Finance can be inaccessible for many people
+  * I love the idea of making finance available and accessible to everyone, particularly to younger generations or people without large disposable income, close the financial gap
+  * For every day people, to be able to have realistic options that bring you closer to your financial goals, such as owning a home is absolutely critical
+  * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
+  * I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
 * Tell me about yourself
-  * Should conform to the narrative
-  * See "Behaviora Questions" in "Cracking the Code Interview"
-    * Current role, education, post education, current role details, relevant outside of work, wrap up - why your here"
-  * Mention if you were "headhunted"
-  * Mention awards or success
+  * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
+  * Diploma of Graphic Design & Website Development
+  * First job at Rotapix as a Wordpress Developer
+    * SEO ageny
+    * I collaborated with SEO analysts to optimise WordPress websites
+    * I built an internal SEO first WordPress for new projects from lessons learned
+  * Moved to Digital Garden as a Drupal Developer
+    * Digital agency with a team of interface designers and developers
+    * Designed and built content management solutions in sectors such as Government and Non-Profits, including MSF and APRA
+    * Collaborated with design and development team to build a pattern library and a containerised development environment to provide developers with standardised tooling across agency projects
+    * Great team, worked there for four years
+  * Technocrat
+    * Started my contracting career at Technocrat
+    * Worked with content team at APSC government agency to deliver a large-scale Drupal solution
+    * Achieved WCAG AA rating
+  * Prosple
+    * Provides tools such as job boards, virtual internships and student surveys to help students, teachers and employers make recruiting decisions
+    * Approached by former technical director of Digital Garden to refactor a monolithic multi-site Drupal solution to a microservice style architecture with MongoDB, Express.js, React and Node.js
+    * Hadn't had the opportunity to work with React in production
+    * Within a month, I had implemented a production ready faceted search solution
+    * Developed user profile solution UI and API with Next.js and GraphQL, now handling data for thousands of users
+  * TEX
+    * Social networking platform connecting individuals and organisations to share skills and experience
+    * React, Express.js, Firebase \(NoSQL and serverless functions\) and Algolia \(search\)
+    * Start up environment geared towards rapid prototyping
+    * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as session counts, used eventing to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub, discovered patterns such as profile to sessions ratios
 * Why are you leaving your current role
 * What is your greatest strength?
 * What is your greatest weakness? \(How do you overcome it?\)
