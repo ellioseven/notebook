@@ -71,7 +71,8 @@
 * Why are you leaving your current role
   * Growth!
   * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction
-  * An opportunity to work with Go \(and AWS\) would be a huge win
+  * An opportunity to work with Go would be a huge win
+  * I'm really keen to work with AWS, I'm taking my AWS certified developer exam in a couple of months
 * What is your greatest strength?
   * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions. I personally love to crack out my tablet over a screen share and start forming ideas with my terrible illustrations
 * What is your greatest weakness? \(How do you overcome it?\)
