@@ -69,6 +69,9 @@
     * Start up environment geared towards rapid prototyping
     * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as session counts, used eventing to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub, discovered patterns such as profile to sessions ratios
 * Why are you leaving your current role
+  * Growth!
+  * I am extremely fascinated by the FinTech sector, especially since my father and both my brothers work in financial roles, I think a great financial product would be a step in the right direction
+  * An opportunity to work with Go \(and AWS\) would be a huge win
 * What is your greatest strength?
   * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions. I personally love to crack out my tablet over a screen share and start forming ideas with my terrible illustrations
 * What is your greatest weakness? \(How do you overcome it?\)
