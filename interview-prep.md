@@ -65,7 +65,7 @@
   * TEX
     * Social networking platform connecting individuals and organisations to share skills and experience
     * React, Express.js, Firebase \(NoSQL and serverless functions\), Algolia \(search\) on a GCP environment
-    * Start up environment geared towards rapid prototyping
+    * Fast paced start up geared towards collaboration, rapid prototyping and experimentation
     * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as bookings and video sessions
     * I used an event based architecture to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub
     * I've also implemented solutions for social networking with GetStream.io, video sessions with Twilio Video and booking with Cronofy
