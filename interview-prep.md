@@ -12,6 +12,7 @@
     * Time and risk were big favors, I needed to build the feature as quickly with minimum risk in order to gauge the value to customers, while still being able to migrate the solution away to something more permanent
     * I decided to use our existing database \(Firestore\) to build an aggregated data pattern, where metrics are tallied in real time in order to provide an API that can respond with customer insight data as quickly as possible
     * GCP Pub/Sub and GCP Cloud Storage was used to allow staff to generate on-demand reports that cover metrics across all customers for certain core features
+    * We managed to find interested patterns, such as complete profiles would lead to more sessions booked for that individual
     * Customers loved the insights and we decided to implement a couple more core feature insights
 * What was the hardest bug you've faced?
   * Regex Bottleneck
