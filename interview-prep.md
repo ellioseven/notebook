@@ -55,12 +55,12 @@
   * Technocrat
     * Started my contracting career at Technocrat
     * Worked with content team at APSC government agency to deliver a large-scale Drupal solution
-    * Achieved WCAG AA rating
+    * Achieved WCAG AA accessibility rating
   * Prosple
     * Provides tools such as job boards, virtual internships and student surveys to help students, teachers and employers make recruiting decisions
     * Approached by former technical director of Digital Garden to refactor a monolithic multi-site Drupal solution to a microservice style architecture with MongoDB, Express.js, React and Node.js
     * Hadn't had the opportunity to work with React in production
-    * Within a month, I had implemented a production ready faceted search solution
+    * Within a month, I had implemented a production ready faceted search solution, which is still used today
     * Developed user profile solution UI and API with Next.js and GraphQL, now handling data for thousands of users
   * TEX
     * Social networking platform connecting individuals and organisations to share skills and experience
