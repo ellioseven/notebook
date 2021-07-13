@@ -68,7 +68,7 @@
     * Developed a real time user behaviour analytics solution, providing aggregated metrics across core product features such as session counts, used eventing to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub, discovered patterns such as profile to sessions ratios
 * Why are you leaving your current role
   * Growth!
-  * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction
+  * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction for my career
   * An opportunity to work with Go would be a huge win
   * I'm really keen to work with AWS, I'm taking my AWS certified developer exam in a couple of months
 * What is your greatest strength?
