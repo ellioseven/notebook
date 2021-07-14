@@ -76,7 +76,7 @@
   * An opportunity to work with Go would be a huge win
   * I'm really keen to work with AWS, I'm taking my AWS certified developer exam in a couple of months
 * **What is your greatest strength?**
-  * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my tablet over a screen share and start forming ideas with my terrible illustrations, I find it's extremely effective for ideas and problem solving
+  * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my tablet over a screen share and start forming ideas with my terrible illustrations, I find it's extremely effective to communicate ideas with others
 * **What is your greatest weakness? \(How do you overcome it?\)**
   * Technology is fast paced and always changing, I can get lost in the excitement of new technologies, ideas and patterns. I find myself with a lot of enthusiasm to try new or different things that potentially might not work. Sometimes you have to separate yourself from the solution and really look at the problem. Not always a bad thing, you can have lot's of different solutions and angles for different problems.
 
