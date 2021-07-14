@@ -86,4 +86,5 @@
 * Monthly health and wellness reimbursement?
 * What does team/collaboration look like? Who would I be working with day to day?
 * Room to work with DevOps or management?
+* Is there a ratio as to days home/office
 
