@@ -45,8 +45,8 @@
   * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
   * Diploma of Graphic Design & Website Development
   * I started my career at Rotapix as a Wordpress Developer
-    * SEO ageny
-    * I collaborated with SEO analysts to optimise WordPress websites
+    * SEO agency
+    * I collaborated with SEO analysts to optimise WordPress websites and increase SE performance
     * I built an internal SEO first WordPress for new projects from lessons learned
   * Moved to Digital Garden as a Drupal Developer
     * Digital agency with a team of interface designers and developers
