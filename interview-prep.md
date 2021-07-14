@@ -9,7 +9,7 @@
       * eg: What were the most searched skills?
     * The first part of the problem was to research and find what a valuable but minimal data set would look like and how we would deliver it
     * The second part of the problem was to realise what the constraints were, do we build with what we have or research new tools \(eg: Segment\)
-    * Time and risk were big favors, I needed to build the feature as quickly with minimum risk in order to gauge the value to customers, while still being able to migrate the solution away to something more permanent
+    * Time and risk were big factors, I needed to build the feature as quickly with minimum risk in order to gauge the value to customers, while still being able to migrate the solution away to something more permanent
     * I decided to use our existing database \(Firestore\) to build an aggregated data pattern, where metrics are tallied in real time with GCP Pub/Sub and serverless functions, I implemented an  API so that customers could fetch insight data about their team members as quickly as possible
     * GCP Cloud Storage was used to allow staff to generate on-demand reports that cover metrics across all customers for certain core features
     * We managed to find interested patterns, such as complete profiles would lead to more sessions booked for that individual
@@ -30,7 +30,7 @@
     * I had been working with our current stack for around a year and had become "attached" to one of our frameworks without realising
     * Time came for a new product, our team were deciding what the stack should look like
     * Debates were getting heated, we couldn't decide, discussion was going nowhere, not constructive
-    * Decided the best thing to do would be to take a short break to reflect
+    * We decided to take a short break to reflect
     * Realised that thought needs to be objective, remove any ego or attachment to tools or frameworks
     * Spend less time worrying about things and more time thinking about actions you can take to get closer to your goals, then actually take action
     * Reformed with team to build a pros/cons list and a feature table to attempt to provide a clear path, involving all team members
@@ -40,7 +40,7 @@
   * I love the product idea and it looks like it was made by people who really care
   * Finance can be inaccessible for many people, particularly younger generations or people without large disposable income, close the financial gap!
   * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
-  * I find the problem exciting, how can I generate passive income without a ton of risk? I am even currently trying to build a portfolio insights dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
+  * I find the problem exciting, how can I generate passive income without a ton of risk? I am even currently trying to build a portfolio dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
 * **Tell me about yourself**
   * I made my first table layout based website for a kebab shop when I was 16, I was paid in kebabs
   * Diploma of Graphic Design & Website Development
@@ -78,5 +78,5 @@
 * **What is your greatest strength?**
   * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my tablet over a screen share and start forming ideas with my terrible illustrations, I find it's extremely effective for ideas and problem solving
 * **What is your greatest weakness? \(How do you overcome it?\)**
-  * Technology is fast paced and always changing, I can get lost in the excitement of new technologies, ideas and patterns. Find yourself with a lot of enthusiasm to try new or different things that might not work. Sometimes you have to separate yourself from the solution and really look at the problem. Not always a bad thing, you can have lot's of different solutions for different problems.
+  * Technology is fast paced and always changing, I can get lost in the excitement of new technologies, ideas and patterns. I find myself with a lot of enthusiasm to try new or different things that potentially might not work. Sometimes you have to separate yourself from the solution and really look at the problem. Not always a bad thing, you can have lot's of different solutions and angles for different problems.
 
