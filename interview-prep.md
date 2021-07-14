@@ -51,7 +51,8 @@
   * Moved to Digital Garden as a Drupal Developer
     * Digital agency with a team of interface designers and developers
     * Designed and built content management solutions in sectors such as Government and Non-Profits, for organisations such as MSF and APRA
-    * Collaborated with design and development team to build a pattern library and a containerised development environment to provide developers with standardised tooling across agency projects
+    * For MSF, I designed and implemented a multi-step donation system with automated recurring and one off payments payments
+    * Collaborated with design and development team to build a pattern library and a containerised development environment to provide developers with standardised framework and UI elements across agency projects
     * Great team, worked there for four years
   * Technocrat
     * Started my contracting career at Technocrat
