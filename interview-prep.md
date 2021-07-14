@@ -61,7 +61,7 @@
   * Prosple
     * Provides tools such as job boards, virtual internships and student reviews to help students, teachers and employers make recruiting decisions
     * Approached by former technical director of Digital Garden to refactor a monolithic multi-site Drupal solution to a microservice style architecture with MongoDB, Express.js, React and Node.js
-    * Hadn't had the opportunity to work with React in production
+    * Hadn't had the opportunity to work with React and GraphQL in production
     * Within a month, I had implemented a production ready faceted search solution, which is still used today and handles thousands of daily searches for over 60 tenants
     * Developed user profile solution UI and API with Next.js and GraphQL, collecting data such as education background, career objects, skills, now handling data for thousands of users
   * TEX
