@@ -88,3 +88,37 @@
 * Room to work with DevOps or management?
 * Is there a ratio as to days home/office
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
