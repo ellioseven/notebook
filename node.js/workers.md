@@ -7,7 +7,7 @@
 
 const { Worker } = require("worker_threads")
 
-const n = process.argv[2] || 5000000000
+const n = 5000000000
 
 const runService = (workerData) => {
   return new Promise((resolve, reject) => {
