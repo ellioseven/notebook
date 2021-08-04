@@ -8,4 +8,5 @@
 ## Node.js
 
 * [Workers](node.js/workers.md)
+* [Streams](node.js/streams.md)
 
