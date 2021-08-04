@@ -1,6 +1,41 @@
 # Workers
 
+### Notes
+
+* Typical application has a single process and thread
+  * 1 process
+  * 1 Node.js engine with 1 event loop
+* Worker threads allow
+  * 1 process
+  * Multiple Node.js engines with their own event loop
+* **Prevents you from blocking the event loop**
+* **Allows you run parallel processing**
+* Stable in Node 12
+* Use `worker.on("message", fn)` to handle a message from a worker
+* Use `worker.postMessage("message")` to sent a message to a worker
+* Use `parentPort.onMessage` to handle a message from the main thread
+* Use `parentPort.postMessage` to sent a message to the main thread
+* Use `worker_threads.isMainThread` to check if you're in the main thread
+* Use `worker_threads.threadId` to get the current thread's ID
+* Workers expose `message`, `error`, `connect` and `exit` events
+* Use the `workerData` to send data to a worker
+
 ### Code
+
+#### Worker in Same File
+
+```javascript
+const { Worker, isMainThread } = require("worker_threads")
+
+if (isMainThread) {
+  const worker = new Worker(__filename)
+  console.log("Main thread created worker")
+} else {
+  console.log("Processing from worker thread")
+}
+```
+
+#### Wait for Calculation
 
 ```javascript
 // main.js
