@@ -37,15 +37,9 @@
     * Settled with a vote
     * After the decision, followed up individually after the meeting to apologise, empathise, let them know that their contribution is extremely valuable
 * **Why do you want to work here?**
-  * I love the product idea and it looks like it was made by people who really care
-  * Finance can be inaccessible for many people, particularly younger generations or people without large disposable income, close the financial gap is extremely important
-  * Voyager directly relates to my journey, I have been saving for a home deposit for years, I am currently invested in a mutual fund, I'm looking at even more options, which is how I found you
-  * I find the problem exciting, how can I generate passive income without a ton of risk? I am even currently trying to build a portfolio dashboard myself, but finding it extremely difficult to get up to date and accurate ASX data
+  * 
 * **Why are you leaving your current role**
   * Growth!
-  * I am extremely fascinated by the financial sector, especially since my father and both my brothers work in financial roles, a position at an exciting FinTech product would be a step in the right direction for my career
-  * An opportunity to work with Go would be a huge win
-  * I'm really keen to work with AWS, I'm taking my AWS certified developer exam in a couple of months
 * **What is your greatest strength?**
   * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my wacom tablet over a screen share and start forming ideas with my terrible illustrations, I find it's extremely effective to communicate ideas with others
 * **What is your greatest weakness? \(How do you overcome it?\)**
