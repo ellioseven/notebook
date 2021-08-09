@@ -75,13 +75,6 @@
     * I used an event based architecture to watch for database changes and aggregate them with Firestore NoSQL and GCP Pub/Sub
     * I've also spent a lot of time analysing and integrating third party software, solutions for social networking with GetStream.io, video sessions with Twilio Video and booking management with Cronofy
 
-### Questions
-
-* Monthly health and wellness reimbursement?
-* What does team/collaboration look like? Who would I be working with day to day?
-* Room to work with DevOps or management?
-* Is there a ratio as to days home/office
-
 
 
 
