@@ -29,7 +29,7 @@
   * Ego
     * I had been working with our current stack for around a year and had become "attached" to one of our frameworks without realising
     * Time came for a new product, our team were deciding what the stack should look like
-    * Debates were getting heated, we couldn't decide, discussion was going nowhere, not constructive
+    * We couldn't decide, discussion was going nowhere, not constructive, getting frustrated
     * We decided to take a short break
     * Realised that thought needs to be objective, remove any ego or attachment to tools or frameworks
     * Spend less time worrying about things and more time thinking about actions you can take to get closer to your goals, then actually take action
@@ -41,7 +41,7 @@
 * **Why are you leaving your current role**
   * Growth!
 * **What is your greatest strength?**
-  * My biggest strength is being able to collaborate with others for problem solving. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my wacom tablet over a screen share and start forming ideas with my terrible illustrations, I find it's extremely effective to communicate ideas with others
+  * My biggest strength is being able to collaborate with others for problem solving. With a background in design and career in software, I like to think that I have a unique approach to solving problems. I love to explore different ideas to try and find simple and effective solutions around constraints. I personally love to crack out my wacom tablet over a screen share and start forming ideas with my terrible illustrations, I find it's extremely effective to communicate ideas with others
 * **What is your greatest weakness? \(How do you overcome it?\)**
   * Technology is fast paced and always changing, I can get lost in the excitement of new technologies, ideas and patterns. I find myself with a lot of enthusiasm to try new or different things that potentially might not work. Sometimes you have to separate yourself from the solution and really look at the problem. Not always a bad thing, you can have lot's of different solutions and angles for different problems.
 * **Tell me about yourself**
