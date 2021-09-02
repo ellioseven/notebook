@@ -106,6 +106,7 @@ const sum = async (n) => {
 ### Examples
 
 * [https://github.com/PKief/nodejs-worker-threads](https://github.com/PKief/nodejs-worker-threads)
+* [https://gist.github.com/ellioseven/94d6b0c4f408adc8970f0aab115b6f24](https://gist.github.com/ellioseven/94d6b0c4f408adc8970f0aab115b6f24)
 
 ### Reading
 
